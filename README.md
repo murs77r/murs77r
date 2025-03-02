@@ -7,3 +7,6 @@ I’m Murilo S. Ramos, currently residing in Brasília, the capital of Brazil. I
 - 🌱 I enjoy working with programming languages such as JavaScript and Python, but I also dabble in CSS and HTML. I also have knowledge in Databases, having worked with both relational and No-SQL databases.
 
 - 📫 [LinkedIn](https://www.linkedin.com/in/murs77r/)
+
+![Capa](https://raw.githubusercontent.com/murs77r/murs77r/refs/heads/main/capa.jpg)
+
