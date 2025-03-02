@@ -1,5 +1,5 @@
-# EN-US
 ## Hi there! 👋
+**EN-US**
 
 I’m Murilo Souza Ramos, currently residing in Brasília, the capital of Brazil. I am a student of **Análise e Desenvolvimento de Sistemas** at **Faculdade de Inovação e Tecnologia SENAC-DF**.
 
@@ -7,8 +7,8 @@ I’m Murilo Souza Ramos, currently residing in Brasília, the capital of Brazil
 - 🌱 I enjoy working with programming languages such as JavaScript and Python, but I also dabble in CSS and HTML. I also have knowledge in Databases, having worked with both relational and No-SQL databases.
 - 📫 [LinkedIn](https://www.linkedin.com/in/murs77r/)
 
-# PT-BR
 ## Olá! 👋
+**PT-BR**
 
 Sou Murilo Souza Ramos, atualmente resido em Brasília, capital do Brasil. Sou aluno de **Análise e Desenvolvimento de Sistemas** na **Faculdade de Inovação e Tecnologia SENAC-DF**.
 
