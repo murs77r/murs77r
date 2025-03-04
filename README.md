@@ -8,4 +8,4 @@ I’m Murilo Souza Ramos, currently residing in Brasília, the capital of Brazil
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=murs77r&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
-![Linguagens Favoritas](c:\Users\muril\AppData\Local\Temp\Sem título.svg)
+![Linguagens Favoritas](https://github-readme-stats.vercel.app/api/top-langs/?username=murs77r&theme=dark&show_icons=true&hide_border=false&layout=compact)
