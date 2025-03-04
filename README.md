@@ -6,4 +6,5 @@ I’m Murilo Souza Ramos, currently residing in Brasília, the capital of Brazil
 - 🌱 I enjoy working with programming languages such as JavaScript and Python, but I also dabble in CSS and HTML. I also have knowledge in Databases, having worked with both relational and No-SQL databases. / Gosto de trabalhar com linguagens de programação como JavaScript e Python, mas também me interesso por CSS e HTML. Também tenho conhecimento em Bancos de Dados, tendo trabalhado com bancos de dados relacionais e No-SQL.
 - 📫 [LinkedIn](https://www.linkedin.com/in/murs77r/)
 
+### GitHub Statistics / Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=murs77r&theme=dark&show_icons=true&hide_border=false&count_private=true)![Linguagens Favoritas](https://github-readme-stats.vercel.app/api/top-langs/?username=murs77r&theme=dark&show_icons=true&hide_border=false&layout=compact)
